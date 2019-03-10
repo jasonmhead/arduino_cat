@@ -1,5 +1,9 @@
 /*************************************************** 
-  This is an example for our Adafruit 16-channel PWM & Servo driver
+Arduino Robot Cat - see README for more details
+ ****************************************************/
+ 
+/*************************************************** 
+  This is based on an example for the Adafruit 16-channel PWM & Servo driver
   Servo test - this will drive 8 servos, one after the other on the
   first 8 pins of the PCA9685
   Pick one up today in the adafruit shop!
