@@ -1,8 +1,10 @@
 This project is an incomplete work in progress project with some inital functionality.
 
--8 servos
+
+- 8 servos
 - Arduino Uno
 - PCA9685 servo with afruit 16-channel PWM & Servo driver
+
 
 Even if the hardware is not exactly the same, things should work overall with a few tweaks.
 
